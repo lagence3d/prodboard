@@ -43,6 +43,12 @@
 	/* background-image: none; */
 }
 
-.nav-panel .nav-panel-item span:hover {
+.nav-panel .nav-panel-item .collapsed>a:hover {
 	color : #f04e23 !important;
+}
+
+input[type=range]::-webkit-slider-thumb,
+input[type=range]::-moz-range-thumb,
+input[type=range]::-ms-thumb {
+  background: #f04e23 !important;
 }
