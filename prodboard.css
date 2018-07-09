@@ -75,12 +75,13 @@
 }
 
 .section-facades .facade .option,
-.facade-gallery .selector-items .item.selected .preview,
-.select-default-item.facade .preview:hover {
+.selector-items .item.selected .preview,
+.selector-items .item:hover .preview,
+.preview:hover {
 	outline-color: #f04e23 !important;
 }
 
-.facade-gallery .selector-items .item.selected .preview:after {
+.selector-items .item.selected .preview:after {
 	border-left-color : #f04e23 !important;
 }
 
