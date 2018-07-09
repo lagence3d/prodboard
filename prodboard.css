@@ -25,7 +25,9 @@
 .icon,
 .ui-dropdown button,
 .ui-slider label .value,
-.nav-panel .nav-panel-item .expanded>a {
+.nav-panel .nav-panel-item .expanded>a,
+.nav-panel .nav-panel-item .collapsed>a:hover,
+.accordion .accordion-item>a:hover {
 	color : #f04e23 !important;
 }
 
@@ -46,12 +48,6 @@
 .size .property-editor.composite select,
 .control-panel .button:hover {
 	background-color: #f04e23 !important;
-	/* background-image: none; */
-}
-
-.nav-panel .nav-panel-item .collapsed>a:hover,
-.accordion .accordion-item>a:hover {
-	color : #f04e23 !important;
 }
 
 .switch .item {
@@ -91,4 +87,6 @@ input[type=range]::-moz-range-thumb,
 input[type=range]::-ms-thumb {
   background-color: #f04e23 !important;
   color: #f04e23 !important;
+  outline-color: #f04e23 !important;
+  border-color: #f04e23 !important;
 }
