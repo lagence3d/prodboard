@@ -75,7 +75,8 @@
 }
 
 .section-facades .facade .option,
-.facade-gallery .selector-items .item.selected .preview {
+.facade-gallery .selector-items .item.selected .preview,
+.select-default-item.facade .preview:hover {
 	outline-color: #f04e23 !important;
 }
 
