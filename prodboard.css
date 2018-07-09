@@ -18,7 +18,7 @@
 
 .menu {
 	background-color : #f04e23 !important;
-	background-image: none !important;
+	background-image : none !important;
 }
 
 .icon,
@@ -41,4 +41,8 @@
 .ui-switch .toggle+label .marker {
 	background-color: #f04e23 !important;
 	/* background-image: none; */
+}
+
+.nav-panel .nav-panel-item span:hover {
+	color : #f04e23 !important;
 }
