@@ -1,0 +1,32 @@
+.error{
+    background:#ffb4b4 !important;
+    margin:3px !important
+}
+
+.form-error {
+    
+}
+
+.ng-scope .toolbar-container .primary > .ng-scope:first-child ,
+.ng-scope .toolbar-container .primary > .ng-scope:last-child, 
+.ng-scope .toolbar-container .secondary,
+.ng-scope .ng-isolate-scope .price-container,
+.mCSB_1_container > .ng-scope:nth-child(4),
+.mCSB_1_container > .ng-scope:nth-child(5) {
+	display: none !important;
+}
+
+.menu ,
+.selected {
+	background-color : #f04e23 !important;
+	background-image : none !important;
+}
+
+.icon {
+	color : #f04e23 !important;
+}
+
+.ui-category.single-item .galery-item-option.selected {
+	background-color: #f04e23 !important;
+	border-color: #f04e23 !important;
+}
