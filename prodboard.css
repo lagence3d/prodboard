@@ -51,18 +51,23 @@
 	color : #f04e23 !important;
 }
 
-.switch .item.selected {
-	background-color : #f04e23 !important;
-	border-color : #f04e23 !important;
-}
-
 .switch .item {
 	color: #f04e23 !important;
 	border-color: #f04e23 !important;
 }
 
+.switch .item.selected {
+	background-color : #f04e23 !important;
+	border-color : #f04e23 !important;
+	color: white !important;
+}
+
 .select-default-preview.section-type .icon {
 	background : #f04e23 !important;
+	color: white;
+}
+
+.icon > .mdi-chevron-double-right {
 	color: white;
 }
 
