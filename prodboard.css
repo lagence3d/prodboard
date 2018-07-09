@@ -11,7 +11,8 @@
 .ng-scope .toolbar-container .primary > .ng-scope:last-child, 
 .ng-scope .toolbar-container .secondary,
 .ng-scope .ng-isolate-scope .price-container,
-.mCSB_container .mCS_y_hidden .mCS_no_scrollbar_y > .ng-scope:nth-child(4)
+.snackbar-container,
+.mCSB_container .mCS_y_hidden .mCS_no_scrollbar_y > .ng-scope:nth-child(4),
 .mCSB_container .mCS_y_hidden .mCS_no_scrollbar_y > .ng-scope:nth-child(5) {
 	display: none !important;
 }
