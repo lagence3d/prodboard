@@ -17,7 +17,6 @@
 }
 
 .menu ,
-.selected,
 .toggle:checked+label .marker {
 	background-color : #f04e23 !important;
 	background-image : none !important;
