@@ -18,7 +18,7 @@
 
 .menu {
 	background-color : #f04e23 !important;
-	background-image: none;
+	background-image: none !important;
 }
 
 .icon,
