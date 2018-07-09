@@ -64,11 +64,11 @@
 
 .select-default-preview.section-type .icon {
 	background : #f04e23 !important;
-	color: white;
+	color: white !important;
 }
 
 .icon > .mdi-chevron-double-right {
-	color: white;
+	color: white !important;
 }
 
 input[type=range]::-webkit-slider-thumb,
