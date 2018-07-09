@@ -34,7 +34,8 @@
 	border-color: #f04e23 !important;
 }
 
-.btn.outlined .btn-content {
+.btn.outlined .btn-content,
+.control-panel .button {
 	color : #f04e23 !important;
 	border: solid 1px #f04e23 !important;
 }
@@ -42,7 +43,8 @@
 .ui-switch .toggle+label .marker,
 .toggle:checked+label .marker,
 .toggle+label .marker,
-.size .property-editor.composite select {
+.size .property-editor.composite select,
+.control-panel .button:hover {
 	background-color: #f04e23 !important;
 	/* background-image: none; */
 }
@@ -70,6 +72,15 @@
 
 .icon > .mdi-chevron-double-right {
 	color: white !important;
+}
+
+.section-facades .facade .option,
+.facade-gallery .selector-items .item.selected .preview {
+	outline-color: #f04e23 !important;
+}
+
+.facade-gallery .selector-items .item.selected .preview:after {
+	border-left-color : #f04e23 !important;
 }
 
 input[type=range]::-webkit-slider-thumb,
