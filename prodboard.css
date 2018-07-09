@@ -39,7 +39,8 @@
 }
 
 .ui-switch .toggle+label .marker,
-.toggle:checked+label .marker {
+.toggle:checked+label .marker,
+.toggle+label .marker {
 	background-color: #f04e23 !important;
 	/* background-image: none; */
 }
@@ -52,5 +53,6 @@
 input[type=range]::-webkit-slider-thumb,
 input[type=range]::-moz-range-thumb,
 input[type=range]::-ms-thumb {
-  background: #f04e23 !important;
+  background-color: #f04e23 !important;
+  color: #f04e23 !important;
 }
