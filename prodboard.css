@@ -17,9 +17,10 @@
 }
 
 .menu ,
-.toggle:checked+label .marker {
+.toggle:checked+label .marker,
+.ui-switch .toggle:checked+label .marker {
 	background-color : #f04e23 !important;
-	background-image : none !important;
+	/* background-image : none !important; */
 }
 
 .icon,
