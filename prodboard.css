@@ -70,7 +70,8 @@
 	color: white !important;
 }
 
-.icon > .mdi-chevron-double-right {
+.icon > .mdi-chevron-double-right,
+.control-panel .button:hover {
 	color: white !important;
 }
 
