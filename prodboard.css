@@ -38,12 +38,14 @@
 	border: solid 1px #f04e23 !important;
 }
 
-.ui-switch .toggle+label .marker {
+.ui-switch .toggle+label .marker,
+.toggle:checked+label .marker {
 	background-color: #f04e23 !important;
 	/* background-image: none; */
 }
 
-.nav-panel .nav-panel-item .collapsed>a:hover {
+.nav-panel .nav-panel-item .collapsed>a:hover,
+.accordion .accordion-item>a:hover {
 	color : #f04e23 !important;
 }
 
