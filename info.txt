@@ -1,0 +1,16 @@
+Exemple pris a partir de demo.css
+il y a deux couleur a changer dans le code css
+
+la premiere : #f04e23
+un couleur plus opaque pour les menus 
+
+la seconde : #f08951
+une couleur plus clair sur laquel un alpha est appliquer ( pour des boutons ou menu le menu du prix par exemlpe )
+
+pour trouver des couleurs allez sur le site http://www.color-hex.com et prendre comme couleur de reference la couleur du client pour en 
+trouver une plus clair 
+la coueleur client seras appliqué sur le premiere valeur à changer et la plus clair sur le seconde 
+
+une fois le nouveau fichier crée et déposer sur gitHub se rendre sur le site : https://rawgit.com/ et copier l'url de la css sur github
+puis copier le lien " development " /!\ fattes bien attention car l'autre lien ne marcheras pas /!\ puis coller ce lien la ou il faut 
+sur prodboard

@@ -1,0 +1,86 @@
+.error {
+    background: #ffb4b4 !important;
+    margin: 3px !important
+}
+
+.form-error  {
+    
+}
+
+.menu  {
+	background-color :  #1F1F1F !important;
+	background-image :  none !important;
+}
+
+.icon, 
+.ui-dropdown button, 
+.ui-slider label .value, 
+.nav-panel .nav-panel-item .expanded>a, 
+.nav-panel .nav-panel-item .collapsed>a: hover, 
+.accordion .accordion-item>a:hover  {
+	color :  #1F1F1F !important;
+}
+
+.ui-category.single-item .galery-item-option.selected  {
+	background-color:  #1F1F1F !important;
+	border-color:  #1F1F1F !important;
+}
+
+.btn.outlined .btn-content, 
+.control-panel .button  {
+	color :  #1F1F1F !important;
+	border:  solid 1px #1F1F1F !important;
+}
+
+.ui-switch .toggle+label .marker, 
+.toggle: checked+label .marker, 
+.toggle+label .marker, 
+.size .property-editor.composite select, 
+.control-panel .button:hover  {
+	background-color:  #1F1F1F !important;
+}
+
+.switch .item  {
+	color:  #1F1F1F !important;
+	border-color:  #1F1F1F !important;
+}
+
+.switch .item.selected  {
+	background-color :  #1F1F1F !important;
+	border-color :  #1F1F1F !important;
+	color:  white !important;
+}
+
+.select-default-preview.section-type .icon  {
+	background :  #1F1F1F !important;
+	color:  white !important;
+}
+
+.icon > .mdi-chevron-double-right, 
+.control-panel .button: hover  {
+	color:  white !important;
+}
+
+.section-facades .facade .option, 
+.selector-items .item.selected .preview, 
+.selector-items .item: hover .preview, 
+.preview:hover  {
+	outline-color:  #1F1F1F !important;
+}
+
+.selector-items .item.selected .preview: after  {
+	border-left-color :  #1F1F1F !important;
+}
+
+input[type=range]: :-webkit-slider-thumb  {
+    border:  solid 7px #1F1F1F !important;
+}
+
+.price, 
+.views-container .action.checked  {
+	background :  #414141 !important;
+}
+
+.btn.secondary .btn-content  {
+	color :  #414141 !important;
+}
