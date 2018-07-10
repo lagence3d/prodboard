@@ -46,7 +46,8 @@
 .toggle:checked+label .marker,
 .toggle+label .marker,
 .size .property-editor.composite select,
-.control-panel .button:hover {
+.control-panel .button:hover ,
+.views-container .action.checked {
 	background-color: #f04e23 !important;
 }
 

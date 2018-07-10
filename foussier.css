@@ -75,3 +75,12 @@
 input[type=range]::-webkit-slider-thumb {
     border: solid 7px #f04e23 !important;
 }
+
+.price,
+.views-container .action.checked {
+	background : #f08951 !important;
+}
+
+.btn.secondary .btn-content {
+	color : #f08951 !important;
+}
