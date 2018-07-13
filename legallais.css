@@ -1,0 +1,86 @@
+.error {
+    background: #ffb4b4 !important;
+    margin: 3px !important
+}
+
+.form-error  {
+    
+}
+
+.menu  {
+	background-color :  #FFE000 !important;
+	background-image :  none !important;
+}
+
+.icon, 
+.ui-dropdown button, 
+.ui-slider label .value, 
+.nav-panel .nav-panel-item .expanded>a, 
+.nav-panel .nav-panel-item .collapsed>a: hover, 
+.accordion .accordion-item>a:hover  {
+	color :  #FFE000 !important;
+}
+
+.ui-category.single-item .galery-item-option.selected  {
+	background-color:  #FFE000 !important;
+	border-color:  #FFE000 !important;
+}
+
+.btn.outlined .btn-content, 
+.control-panel .button  {
+	color :  #FFE000 !important;
+	border:  solid 1px #FFE000 !important;
+}
+
+.ui-switch .toggle+label .marker, 
+.toggle: checked+label .marker, 
+.toggle+label .marker, 
+.size .property-editor.composite select, 
+.control-panel .button:hover  {
+	background-color:  #FFE000 !important;
+}
+
+.switch .item  {
+	color:  #FFE000 !important;
+	border-color:  #FFE000 !important;
+}
+
+.switch .item.selected  {
+	background-color :  #FFE000 !important;
+	border-color :  #FFE000 !important;
+	color:  white !important;
+}
+
+.select-default-preview.section-type .icon  {
+	background :  #FFE000 !important;
+	color:  white !important;
+}
+
+.icon > .mdi-chevron-double-right, 
+.control-panel .button: hover  {
+	color:  white !important;
+}
+
+.section-facades .facade .option, 
+.selector-items .item.selected .preview, 
+.selector-items .item: hover .preview, 
+.preview:hover  {
+	outline-color:  #FFE000 !important;
+}
+
+.selector-items .item.selected .preview: after  {
+	border-left-color :  #FFE000 !important;
+}
+
+input[type=range]: :-webkit-slider-thumb  {
+    border:  solid 7px #FFE000 !important;
+}
+
+.price, 
+.views-container .action.checked  {
+	background :  #FFEF7F !important;
+}
+
+.btn.secondary .btn-content  {
+	color :  #FFEF7F !important;
+}
