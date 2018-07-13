@@ -16,8 +16,8 @@
 .ui-dropdown button, 
 .ui-slider label .value, 
 .nav-panel .nav-panel-item .expanded>a, 
-.nav-panel .nav-panel-item .collapsed>a: hover, 
-.accordion .accordion-item>a:hover  {
+.nav-panel .nav-panel-item .collapsed>a:hover, 
+.accordion .accordion-item>a:hover {
 	color :  #FFE000 !important;
 }
 
@@ -33,7 +33,7 @@
 }
 
 .ui-switch .toggle+label .marker, 
-.toggle: checked+label .marker, 
+.toggle:checked+label .marker, 
 .toggle+label .marker, 
 .size .property-editor.composite select, 
 .control-panel .button:hover  {
@@ -57,30 +57,30 @@
 }
 
 .icon > .mdi-chevron-double-right, 
-.control-panel .button: hover  {
+.control-panel .button:hover  {
 	color:  white !important;
 }
 
 .section-facades .facade .option, 
 .selector-items .item.selected .preview, 
-.selector-items .item: hover .preview, 
+.selector-items .item:hover .preview, 
 .preview:hover  {
 	outline-color:  #FFE000 !important;
 }
 
-.selector-items .item.selected .preview: after  {
+.selector-items .item.selected .preview:after  {
 	border-left-color :  #FFE000 !important;
 }
 
-input[type=range]: :-webkit-slider-thumb  {
+input[type=range]::-webkit-slider-thumb  {
     border:  solid 7px #FFE000 !important;
 }
 
 .price, 
 .views-container .action.checked  {
-	background :  #FFEF7F !important;
+	background :  #FFE000 !important;
 }
 
 .btn.secondary .btn-content  {
-	color :  #FFEF7F !important;
+	color :  #FFE000 !important;
 }
