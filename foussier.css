@@ -7,11 +7,9 @@
     
 }
 
-#adminPanel > .tabs:nth-child(6),
+.tabs:nth-child(6),
 .mdi-sync {
 	display : none !important;
-	width : 0 !important;
-	height : 0 !important;
 }
 
 .menu {
