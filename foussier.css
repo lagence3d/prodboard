@@ -7,8 +7,8 @@
     
 }
 
-.mdi-sync {
-	display : none;
+.mdi .mdi-sync {
+	display : none !important;
 }
 
 .menu {
