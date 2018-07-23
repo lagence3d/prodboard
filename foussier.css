@@ -7,7 +7,7 @@
     
 }
 
-#adminPanel .tabs:nth-child(6) {
+#adminPanel .tabs .tab:nth-child(6n) {
 	display : none !important;
 }
 
