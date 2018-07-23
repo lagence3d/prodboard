@@ -7,8 +7,7 @@
     
 }
 
-#adminPanel > .tabs:last-child,
-.mdi .mdi-sync,
+#adminPanel > .tabs:nth-child(6),
 .mdi-sync {
 	display : none !important;
 	width : 0 !important;
