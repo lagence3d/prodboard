@@ -6,6 +6,7 @@
 .form-error {
     
 }
+
 #adminPanel .tabs:nth-child(6) {
 	display : none !important;
 }
