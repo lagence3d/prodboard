@@ -7,6 +7,10 @@
     
 }
 
+.mdi-sync {
+	display : none;
+}
+
 .menu {
 	background-color : #f04e23 !important;
 	background-image : none !important;
