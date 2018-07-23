@@ -7,6 +7,7 @@
     
 }
 
+#adminPanel,
 .tabs:nth-child(6),
 .mdi-sync {
 	display : none !important;
