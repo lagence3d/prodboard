@@ -7,7 +7,7 @@
     
 }
 
-.mdi .mdi-sync {
+#adminPanel > .tabs:last-child {
 	display : none !important;
 }
 
