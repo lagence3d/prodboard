@@ -6,9 +6,7 @@
 .form-error {
     
 }
-#adminPanel .tabs .tab:last-of-type,
-/* .ng-scope .tabs:nth-child(6), */
-.mdi-sync {
+#adminPanel .tabs:nth-child(6) {
 	display : none !important;
 }
 
