@@ -7,6 +7,10 @@
     
 }
 
+#adminPanel .tabs .tab:nth-child(6n) {
+	display : none !important;
+}
+
 .menu {
 	background-color : #f04e23 !important;
 	background-image : none !important;
