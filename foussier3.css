@@ -99,3 +99,7 @@ input[type=range]::-webkit-slider-thumb {
 .ng-isolate-scope .mdi .mdi-folder-multiple {
 	display : none !important;
 }
+
+.form .buttons .accept {
+	background-color: #f04e23 !important
+}
