@@ -1,0 +1,101 @@
+.error{
+    background:#ffb4b4 !important;
+    margin:3px !important
+}
+
+.form-error {
+    
+}
+
+#adminPanel .tabs .tab:nth-child(6n) {
+	display : none !important;
+}
+
+.menu {
+	background-color : #f04e23 !important;
+	background-image : none !important;
+}
+
+.icon,
+.ui-dropdown button,
+.ui-slider label .value,
+.nav-panel .nav-panel-item .expanded>a,
+.nav-panel .nav-panel-item .collapsed>a:hover,
+.accordion .accordion-item>a:hover {
+	color : #f04e23 !important;
+}
+
+.ui-category.single-item .galery-item-option.selected {
+	background-color: #f04e23 !important;
+	border-color: #f04e23 !important;
+}
+
+.btn.outlined .btn-content,
+.control-panel .button {
+	color : #f04e23 !important;
+	border: solid 1px #f04e23 !important;
+}
+
+.ui-switch .toggle+label .marker,
+.toggle:checked+label .marker,
+.toggle+label .marker,
+.size .property-editor.composite select,
+.control-panel .button:hover {
+	background-color: #f04e23 !important;
+}
+
+.switch .item {
+	color: #f04e23 !important;
+	border-color: #f04e23 !important;
+}
+
+.switch .item.selected {
+	background-color : #f04e23 !important;
+	border-color : #f04e23 !important;
+	color: white !important;
+}
+
+.select-default-preview.section-type .icon {
+	background : #f04e23 !important;
+	color: white !important;
+}
+
+.icon > .mdi-chevron-double-right,
+.control-panel .button:hover {
+	color: white !important;
+}
+
+.section-facades .facade .option,
+.selector-items .item.selected .preview,
+.selector-items .item:hover .preview,
+.preview:hover {
+	outline-color: #f04e23 !important;
+}
+
+.selector-items .item.selected .preview:after {
+	border-left-color : #f04e23 !important;
+}
+
+input[type=range]::-webkit-slider-thumb {
+    border: solid 7px #f04e23 !important;
+}
+
+.price,
+.views-container .action.checked {
+	background : #f08951 !important;
+}
+
+.btn.secondary .btn-content {
+	color : #f08951 !important;
+}
+
+.ng-pristine .ng-valid .ng-empty .ng-valid-maxlength .ng-touched,
+.ng-pristine .ng-untouched .ng-valid .ng-empty .ng-valid-email .ng-valid-maxlength,
+.ng-pristine .ng-untouched .ng-valid .ng-empty .ng-valid-maxlength {
+	display : none !important;
+}
+
+.ng-isolate-scope .mdi .mdi-account-multiple,
+.ng-isolate-scope .mdi .mdi-folder-multiple {
+	display : none !important;
+}

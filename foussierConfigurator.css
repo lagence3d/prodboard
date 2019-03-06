@@ -1,0 +1,4 @@
+.ng-isolate-scope .mdi .mdi-account-multiple,
+.ng-isolate-scope .mdi .mdi-folder-multiple {
+	display : none !important;
+}
