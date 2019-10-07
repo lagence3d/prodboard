@@ -1,95 +1,95 @@
-.error {
-    background: #ffb4b4 !important;
-    margin: 3px !important
-}
+/* .error { */
+    /* background: #ffb4b4 !important; */
+    /* margin: 3px !important */
+/* } */
 
-.form-error  {
+/* .form-error  { */
     
-}
+/* } */
 
-.menu  {
-	background-color :  #FFE000 !important;
-	background-image :  none !important;
-	color : black !important;
-}
+/* .menu  { */
+	/* background-color :  #FFE000 !important; */
+	/* background-image :  none !important; */
+	/* color : black !important; */
+/* } */
 
-.icon, 
-.ui-dropdown button, 
-.ui-slider label .value,
-.nav-panel .nav-panel-item .collapsed>a:hover, 
-.accordion .accordion-item>a:hover {
-	color :  #CCB300 !important;
-}
+/* .icon,  */
+/* .ui-dropdown button,  */
+/* .ui-slider label .value, */
+/* .nav-panel .nav-panel-item .collapsed>a:hover,  */
+/* .accordion .accordion-item>a:hover { */
+	/* color :  #CCB300 !important; */
+/* } */
 
-.ui-category.single-item .galery-item-option.selected  {
-	background-color:  #FFE000 !important;
-	border-color:  #FFE000 !important;
-}
+/* .ui-category.single-item .galery-item-option.selected  { */
+	/* background-color:  #FFE000 !important; */
+	/* border-color:  #FFE000 !important; */
+/* } */
 
-.btn.outlined .btn-content, 
-.control-panel .button  {
-	color :  #CCB300 !important;
-	border:  solid 1px #CCB300 !important;
-}
+/* .btn.outlined .btn-content,  */
+/* .control-panel .button  { */
+	/* color :  #CCB300 !important; */
+	/* border:  solid 1px #CCB300 !important; */
+/* } */
 
-.ui-switch .toggle+label .marker, 
-.toggle:checked+label .marker, 
-.toggle+label .marker, 
-.size .property-editor.composite select, 
-.control-panel .button:hover  {
-	background-color:  #FFE000 !important;
-}
+/* .ui-switch .toggle+label .marker,  */
+/* .toggle:checked+label .marker,  */
+/* .toggle+label .marker,  */
+/* .size .property-editor.composite select,  */
+/* .control-panel .button:hover  { */
+	/* background-color:  #FFE000 !important; */
+/* } */
 
-.switch .item  {
-	color:  #FFE000 !important;
-	border-color:  #FFE000 !important;
-}
+/* .switch .item  { */
+	/* color:  #FFE000 !important; */
+	/* border-color:  #FFE000 !important; */
+/* } */
 
-.switch .item.selected  {
-	background-color :  #FFE000 !important;
-	border-color :  #FFE000 !important;
-	color:  white !important;
-}
+/* .switch .item.selected  { */
+	/* background-color :  #FFE000 !important; */
+	/* border-color :  #FFE000 !important; */
+	/* color:  white !important; */
+/* } */
 
-.select-default-preview.section-type .icon  {
-	background :  #FFE000 !important;
-	color:  white !important;
-}
+/* .select-default-preview.section-type .icon  { */
+	/* background :  #FFE000 !important; */
+	/* color:  white !important; */
+/* } */
 
-.icon > .mdi-chevron-double-right, 
-.control-panel .button:hover  {
-	color:  white !important;
-}
+/* .icon > .mdi-chevron-double-right,  */
+/* .control-panel .button:hover  { */
+	/* color:  white !important; */
+/* } */
 
-.section-facades .facade .option, 
-.selector-items .item.selected .preview, 
-.selector-items .item:hover .preview, 
-.preview:hover  {
-	outline-color:  #FFE000 !important;
-}
+/* .section-facades .facade .option,  */
+/* .selector-items .item.selected .preview,  */
+/* .selector-items .item:hover .preview,  */
+/* .preview:hover  { */
+	/* outline-color:  #FFE000 !important; */
+/* } */
 
-.selector-items .item.selected .preview:after  {
-	border-left-color :  #FFE000 !important;
-}
+/* .selector-items .item.selected .preview:after  { */
+	/* border-left-color :  #FFE000 !important; */
+/* } */
 
-input[type=range]::-webkit-slider-thumb  {
-    border:  solid 7px #FFE000 !important;
-}
+/* input[type=range]::-webkit-slider-thumb  { */
+    /* border:  solid 7px #FFE000 !important; */
+/* } */
 
-.price, 
-.views-container .action.checked  {
-	background :  #FFE000 !important;
-	color : black !important;
-}
+/* .price,  */
+/* .views-container .action.checked  { */
+	/* background :  #FFE000 !important; */
+	/* color : black !important; */
+/* } */
 
-.btn.secondary .btn-content  {
-	color :  #FFE000 !important;
-}
+/* .btn.secondary .btn-content  { */
+	/* color :  #FFE000 !important; */
+/* } */
 
-.views-container .action.checked,
-.nav-panel .nav-panel-item .expanded>a {
-	color : black !important;
-}
+/* .views-container .action.checked, */
+/* .nav-panel .nav-panel-item .expanded>a { */
+	/* color : black !important; */
+/* } */
 
 
 /* remove last container */
