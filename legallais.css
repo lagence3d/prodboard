@@ -127,3 +127,8 @@
 .ng-invalid .ng-scope div {
     pointer-events : auto !important;
 }
+
+/* removing privacy policy */
+.ng-scope .ng-scope a.ng-binding {
+	Display: none !important;
+}
