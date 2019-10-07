@@ -110,3 +110,20 @@
 .ng-valid .ng-scope div {
     pointer-events : auto !important;
 }
+
+
+
+
+/* disable and change color of input */
+.ng-invalid div:nth-of-type(-n+2) {
+    pointer-events : none !important;
+}
+
+.ng-invalid div:nth-of-type(-n+2) input {
+    background-color: grey !important;
+}
+
+/* fix for checkbox and privacy policy */ 
+.ng-invalid .ng-scope div {
+    pointer-events : auto !important;
+}
