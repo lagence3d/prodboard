@@ -90,23 +90,3 @@ input[type=range]::-webkit-slider-thumb  {
 .nav-panel .nav-panel-item .expanded>a {
 	color : black !important;
 }
-
-
-/* remove last container */
-#mCSB_10_container .group:last-child {
-    display : none !important;
-}
-
-/* disable and change color of input */
-.ng-valid div:nth-of-type(-n+2) {
-    pointer-events : none !important;
-}
-
-.ng-valid div:nth-of-type(-n+2) input {
-    background-color: grey !important;
-}
-
-/* fix for checkbox and privacy policy */ 
-.ng-valid .ng-scope div {
-    pointer-events : auto !important;
-}
