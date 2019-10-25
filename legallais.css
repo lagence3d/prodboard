@@ -99,7 +99,7 @@
 
 /* disable and change color of input */
 .ng-valid div:nth-of-type(-n+2) {
-    pointer-events : none !important;
+    /* pointer-events : none !important; */
 }
 
 .ng-valid div:nth-of-type(-n+2) input {
