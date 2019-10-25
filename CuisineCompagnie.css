@@ -1,0 +1,91 @@
+.error{
+    background:#ffb4b4 !important;
+    margin:3px !important
+}
+
+.form-error {
+    
+}
+
+.ng-scope .toolbar-container .primary > .ng-scope:first-child ,
+.ng-scope .toolbar-container .primary > .ng-scope:last-child, 
+.ng-scope .toolbar-container .secondary,
+.ng-scope .ng-isolate-scope .price-container,
+.snackbar-container,
+.mCSB_container .mCS_y_hidden .mCS_no_scrollbar_y > .ng-scope:nth-child(4),
+.mCSB_container .mCS_y_hidden .mCS_no_scrollbar_y > .ng-scope:nth-child(5) {
+	display: none !important;
+}
+
+.menu {
+	background-color : #575756 !important;
+	background-image : none !important;
+}
+
+.icon,
+.ui-dropdown button,
+.ui-slider label .value,
+.nav-panel .nav-panel-item .expanded>a,
+.nav-panel .nav-panel-item .collapsed>a:hover,
+.accordion .accordion-item>a:hover {
+	color : #575756 !important;
+}
+
+.ui-category.single-item .galery-item-option.selected {
+	background-color: #575756 !important;
+	border-color: #575756 !important;
+}
+
+.btn.outlined .btn-content,
+.control-panel .button {
+	color : #575756 !important;
+	border: solid 1px #575756 !important;
+}
+
+.ui-switch .toggle+label .marker,
+.toggle:checked+label .marker,
+.toggle+label .marker,
+.size .property-editor.composite select,
+.control-panel .button:hover {
+	background-color: #575756 !important;
+}
+
+.switch .item {
+	color: #575756 !important;
+	border-color: #575756 !important;
+}
+
+.switch .item.selected {
+	background-color : #575756 !important;
+	border-color : #575756 !important;
+	color: white !important;
+}
+
+.select-default-preview.section-type .icon {
+	background : #575756 !important;
+	color: white !important;
+}
+
+.icon > .mdi-chevron-double-right,
+.control-panel .button:hover {
+	color: white !important;
+}
+
+.section-facades .facade .option,
+.selector-items .item.selected .preview,
+.selector-items .item:hover .preview,
+.preview:hover {
+	outline-color: #575756 !important;
+}
+
+.selector-items .item.selected .preview:after {
+	border-left-color : #575756 !important;
+}
+
+input[type=range]::-webkit-slider-thumb {
+    border: solid 7px #575756 !important;
+}
+
+.views-container .action.checked {
+	background : #75756e !important;
+}
