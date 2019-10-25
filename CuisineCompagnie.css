@@ -7,29 +7,11 @@
     
 }
 
-.ng-scope .toolbar-container .primary > .ng-scope:first-child ,
-.ng-scope .toolbar-container .primary > .ng-scope:last-child, 
-.ng-scope .toolbar-container .secondary,
-.ng-scope .ng-isolate-scope .price-container,
-.snackbar-container,
-.mCSB_container .mCS_y_hidden .mCS_no_scrollbar_y > .ng-scope:nth-child(4),
-.mCSB_container .mCS_y_hidden .mCS_no_scrollbar_y > .ng-scope:nth-child(5) {
-	display: none !important;
-}
-
 .menu {
 	background-color : #575756 !important;
 	background-image : none !important;
 }
 
-.icon,
-.ui-dropdown button,
-.ui-slider label .value,
-.nav-panel .nav-panel-item .expanded>a,
-.nav-panel .nav-panel-item .collapsed>a:hover,
-.accordion .accordion-item>a:hover {
-	color : #575756 !important;
-}
 
 .ui-category.single-item .galery-item-option.selected {
 	background-color: #575756 !important;
