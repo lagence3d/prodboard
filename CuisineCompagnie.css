@@ -70,3 +70,7 @@ input[type=range]::-webkit-slider-thumb {
 .views-container .action.checked {
 	background : #75756e !important;
 }
+
+.header.ng-binding {
+	background : #575756 !important;
+}
