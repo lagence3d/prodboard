@@ -71,6 +71,6 @@ input[type=range]::-webkit-slider-thumb {
 	background : #75756e !important;
 }
 
-.header.ng-binding {
+[ng-transclude=heading] {
 	background : #575756 !important;
 }
