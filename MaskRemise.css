@@ -1,0 +1,5 @@
+.input > input[ng-model="model.discount"],
+span[ng-class="::$root.icons.discount"],
+form.form.ng-pristine strong:nth-child(7) {
+	display: none !important;
+}
