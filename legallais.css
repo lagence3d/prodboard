@@ -132,3 +132,8 @@
 .ng-scope .ng-scope a.ng-binding {
 	/* Display: none !important; */
 }
+
+/* removing devis */
+.price-container {
+	display : none;
+}
