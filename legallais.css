@@ -136,3 +136,8 @@
 /* .price-container { */
 	/* display : none; */
 /* } */
+
+/* removing "demander un devis" from devis */ 
+.price small {
+	display : none;
+}
