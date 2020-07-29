@@ -113,7 +113,6 @@
 
 
 
-
 /* disable and change color of input */
 .ng-invalid div:nth-of-type(-n+2) {
     pointer-events : none !important;
@@ -134,6 +133,6 @@
 }
 
 /* removing devis */
-.price-container {
-	display : none;
-}
+/* .price-container { */
+	/* display : none; */
+/* } */
