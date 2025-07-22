@@ -5,6 +5,6 @@ form.form.ng-pristine strong:nth-child(13)
 {
 	display: none !important;
 }
-.tabs-header .tab:has(i.mdi-cart) {
+.tabs-header .tab[uib-tooltip="panier"] {
     display: none !important;
 }
