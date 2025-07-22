@@ -8,5 +8,5 @@ form.form.ng-pristine strong:nth-child(13)
 
 
 .tabs-header .tab i.mdi-cart {
-    display: none;
+    display: none !important;
 }
